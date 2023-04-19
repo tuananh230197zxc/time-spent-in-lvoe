@@ -1,9 +1,9 @@
 
 // Ngày bắt đầu yêu nhau
-const yourDate = new Date("2019-10-30T02:10:26"),
+const yourDate = new Date("2023-4-16T18:30:30"),
 
 // Danh sách cái bài nhạc nền
-music = ['roitoilun'];
+music = [''];
 
 document.addEventListener('DOMContentLoaded', function(){
       var rootTime = document.querySelector("time");
