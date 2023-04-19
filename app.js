@@ -1,6 +1,6 @@
 
 // Ngày bắt đầu yêu nhau
-const yourDate = new Date("2023-4-16T18:30:30"),
+const yourDate = new Date("2023-4-16 T18:30:30"),
 
 // Danh sách cái bài nhạc nền
 music = ['The Way I Still Love You - Reynard Silva.mp3'];
